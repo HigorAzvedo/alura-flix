@@ -1,0 +1,108 @@
+{
+  "videos": [
+    {
+      "id": "1",
+      "area": "frontend",
+      "imagem": "https://i.ytimg.com/vi/BwRxBGsT_f0/maxresdefault.jpg",
+      "titulo": "useRef: como funciona esse React Hook | #AluraMais",
+      "descricao": "Como funciona o useRef? Este Hook do React js é capaz de guardar uma referência ou valor mutável e manipular elementos do DOM sem sofrer re-renderização, confira neste pequeno tutorial como usar o useRef e qual poder te dará na programação Front-End.",
+      "link": "https://www.youtube.com/embed/BwRxBGsT_f0?si=4d--Sh4mbQ41HG6f"
+    },
+    {
+      "id": "2",
+      "area": "frontend",
+      "imagem": "https://i.ytimg.com/vi/KdQa4Rd6K1A/hq720.jpg?sqp=-oaymwEhCK4FEIIDSFryq4qpAxMIARUAAAAAGAElAADIQj0AgKJD&rs=AOn4CLC52_bPMVwASWJlTsm6hwGWb2PRkw",
+      "titulo": "useState: aprenda o React Hook neste TUTORIAL | #AluraMais",
+      "descricao": "Entenda neste tutorial de Hooks React, sobre o que é o useState e porque usá-lo é importante para buscar dados, atualizar estados e renderizar a sua aplicação. Aprenda a como usar o useState na prática e com diferentes soluções para resolver exemplos do dia a dia.",
+      "link": "https://www.youtube.com/embed/KdQa4Rd6K1A?si=BcY8YAk7_wLct8-o"
+    },
+    {
+      "id": "3",
+      "area": "frontend",
+      "imagem": "https://i.ytimg.com/vi/VVmGrEZoBvM/hq720.jpg?sqp=-oaymwEhCK4FEIIDSFryq4qpAxMIARUAAAAAGAElAADIQj0AgKJD&rs=AOn4CLCOi07UT00H-QxVQZB4VuTLYfKEFw",
+      "titulo": "Hook useCallback x useMemo: performance no React | #AluraMais",
+      "descricao": "Através dos hooks useCallback e useMemo, aprenda quando e como otimizar a performance do seu código React JS, através da melhoria na renderização do componente analisado.",
+      "link": "https://www.youtube.com/embed/VVmGrEZoBvM?si=Le7oge3387QLzrjK"
+    },
+    {
+      "id": "4",
+      "area": "frontend",
+      "imagem": "https://i.ytimg.com/vi/CkGh3NM6NuQ/hq720.jpg?sqp=-oaymwEhCK4FEIIDSFryq4qpAxMIARUAAAAAGAElAADIQj0AgKJD&rs=AOn4CLAHfV-l7tXDRpOCZ6X1VMX1m-izHw",
+      "titulo": "useMemo: aplicação React JS com mais performance | #AluraMaisv",
+      "descricao": "Tutorial sobre o React Hook, useMemo, para a otimização de performance da sua aplicação. Aprenda o que é o useMemo, quando usar e identifique funções custosas.",
+      "link": "https://www.youtube.com/embed/CkGh3NM6NuQ?si=OBETI54NfB9Nsk0H"
+    },
+    {
+      "area": "backend",
+      "imagem": "https://i.ytimg.com/vi/fiPfvylj6rk/mqdefault.jpg",
+      "titulo": "O que faz uma desenvolvedora Back-end? com Juliana Amoasei",
+      "descricao": "Afinal, quem trabalha com Back-end faz o que? Com quais outras áreas da tecnologia essa pessoa acaba se relacionando no dia a dia de trabalho e quais os possíveis caminhos nessa carreira?",
+      "link": "https://www.youtube.com/embed/fiPfvylj6rk?si=rvXPXiv3DB5o38uE",
+      "id": "5"
+    },
+    {
+      "id": "6",
+      "area": "backend",
+      "imagem": "https://i.ytimg.com/vi/8VSTrZY8vwI/maxresdefault.jpg",
+      "titulo": "O que é Node.js? | #AluraMais",
+      "descricao": "A Juliana Amoasei, Instrutora na Escola de Programação aqui na Alura, apresenta a vocês o Node.js, o ambiente de execução do Javascript.",
+      "link": "https://www.youtube.com/embed/8VSTrZY8vwI?si=JQoQcPYYgyppsRBc"
+    },
+    {
+      "area": "backend",
+      "imagem": "https://i.ytimg.com/vi/LDU4BCSxPp4/hq720.jpg",
+      "titulo": "Diferença entre Back-End e Front-End com Mario Souto | #HipstersPontoTube",
+      "descricao": "Qual a diferença entre Back-end e Front-end? É possível se especializar nas duas áreas? Como é a rotina desses profissionais e com quais outras áreas da tecnologia acabam se relacionando? ",
+      "link": "https://www.youtube.com/embed/xrRy3RI3HE4?si=l2xE7BvAEkhd66eD",
+      "id": "7"
+    },
+    {
+      "id": "8",
+      "area": "backend",
+      "imagem": "https://i.ytimg.com/vi/PV9FoHvVE8k/mqdefault.jpg",
+      "titulo": "Kotlin, Micronaut e Back-end com Alberto Sousa | #HipstersPontoTube",
+      "descricao": "Vamos falar sobre Kotlin, a linguagem da programação que é amplamente usada por desenvolvedores Android.",
+      "link": "https://www.youtube.com/embed/PV9FoHvVE8k?si=OiMHg76IhkGqTrWn"
+    },
+    {
+      "id": "9",
+      "area": "mobile",
+      "imagem": "https://i.ytimg.com/vi/2z6f8VN_Pro/maxresdefault.jpg",
+      "titulo": "Desmistificando Mobile- Por onde eu começo?",
+      "descricao": "A Websérie “Desmistificando o mobile” vêm aí para simplificar com exemplos práticos vários assuntos envolvendo o mundo dos aplicativos de celular e neste primeiro episódio vamos partir, literalmente, do começo, por onde começar a estudar sobre o mundo dos apps? Os instrutores da escola de mobile da Alura nos ajudam com essa tarefa",
+      "link": "https://www.youtube.com/embed/2z6f8VN_Pro?si=y_NcVYPgtYFjmjMN"
+    },
+    {
+      "id": 10,
+      "area": "mobile",
+      "imagem": "https://i.ytimg.com/vi/fWscDFHKgw8/maxresdefault.jpg",
+      "titulo": "Desenvolvimento Android #HipstersPontoTube",
+      "descricao": "Um episódio focado no desenvolvimento de aplicações Android. Neste bate-papo, Paulo Silveira e Felipe Torres conversam sobre os primeiros passos para começar a desenvolver, quais as principais ferramentas do desenvolvimento mobile, como colocar sua aplicação no ar e mais!",
+      "link": "https://https://www.youtube.com/embed/fWscDFHKgw8?si=MF0QMyD7OAG8mZUK"
+    },
+    {
+      "id": 11,
+      "area": "mobile",
+      "imagem": "https://i.ytimg.com/vi/So5C-XSfGW0/maxresdefault.jpg",
+      "titulo": "O que é Flutter? #HipstersPontoTube",
+      "descricao": "O que é Flutter? Quais ferramentas usar para começar a desenvolver seu aplicativo mobile pra Android ou iOS? Como desenvolver ao mesmo tempo para diferentes plataformas? Como fica o UX do app no desenvolvimento multiplataforma? O Paulo Silveira e o Alex Felipe conversaram sobre Flutter e desenvolvimento Mobile e contam pra gente.",
+      "link": "https://www.youtube.com/embed/So5C-XSfGW0?si=pSNjDmrCIjYq_Djf"
+    },
+    {
+      "id": 12,
+      "area": "mobile",
+      "imagem": "https://i.ytimg.com/vi/MGIs7DSQ-0A/maxresdefault.jpg",
+      "titulo": "Desenvolvimento iOS pra iniciantes com Giovanna Moeller | #HipstersPontoTube",
+      "descricao": "Por onde começar em iOS? Qual linguagem é importante dominar? Quais ferramentas necessárias para mergulhar no desenvolvimento iOS?",
+      "link": "https://www.youtube.com/embed/MGIs7DSQ-0A?si=9KLf4LVMWXqG0aGc"
+    },
+    {
+      "id": 13,
+      "area": "mobile",
+      "imagem": "https://i.ytimg.com/vi/4AH9H_dx_7g/maxresdefault.jpg",
+      "titulo": "Desenvolvimento iOS com Giovanna Moeller | #HipstersPontoTube",
+      "descricao": "Quais os próximos passos? Quais os padrões de projeto? A Giovanna Moeller conta sua experiência para o Mario Souto em um bate papo super legal sobre seu desenvolvimento na área de mobile e iOS",
+      "link": "https://www.youtube.com/embed/4AH9H_dx_7g?si=6plWAUPN_GfcIKLq"
+    }
+  ]
+}
